@@ -18,7 +18,7 @@ let RuthCodina  = {
     },
   Proyects: [
       {SPACountries: ['React-Redux', 'NodeJs', 'Express', 'Sequelize','PostgreSQL']},
-      {:['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
+      {Autocinema:['React', 'Redux', 'NodeJs', 'Express', 'Sequelize', 'Passport']}
     ],
   FutureTecnologies: ['C#', 'Python', 'Java', 'Angular', 'Ruby'],
   Aspirations: ['AI', 'MachineLearning', 'Cybersecurity']
