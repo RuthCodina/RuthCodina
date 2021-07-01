@@ -26,7 +26,8 @@ let RuthCodina  = {
 }
 ```
 You Can Find Me in 🗺️:
--[LinkedIn](www.linkedin.com/in/ruthcodina)
+
+- [LinkedIn](www.linkedin.com/in/ruthcodina)
 <!--
 **RuthCodina/RuthCodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
