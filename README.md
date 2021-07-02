@@ -29,7 +29,7 @@ let RuthCodina  = {
 You Can Find Me in 🗺️:
 
 - <span >
-<img width="5%" src="https://github.com/RuthCodina/RuthCodina/blob/main/logos/linkedin-icon.png"> &nbsp;
+<img width="5%" src="https://github.com/RuthCodina/RuthCodina/blob/main/linkedin-icon.png"> &nbsp;
 </span>[LinkedIn](www.linkedin.com/in/Ruthcodina)
 
 [![Ruthcodina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthcodina)](https://github.com/anuraghazra/github-readme-stats)
