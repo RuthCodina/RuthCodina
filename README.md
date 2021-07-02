@@ -8,7 +8,7 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
 
 ## Welcome to my profile!
 <p>
-  <code><img width="10%" src="https://anthoncode.com/wp-content/uploads/2019/01/python-logo-png.png"></code>
+  <code><img width="10%" src="https://github.com/RuthCodina/RuthCodina/blob/main/imagenes/descarga.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
