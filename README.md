@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Ruth 👋
 # Console.log(Hello World! 💛)
 ![Ruth CODINA (1)](https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif)
 
@@ -7,6 +7,7 @@ I'm a Full Stack Developer willing to listen to new projects, to learn with them
 Besides, I love to travel and discover the nooks and crannies of the planet!
 
 ## Welcome to my profile!
+### About me In code!
 ```js
 let RuthCodina  = {
   Skills: {
@@ -27,7 +28,9 @@ let RuthCodina  = {
 ```
 You Can Find Me in 🗺️:
 
-- [LinkedIn](www.linkedin.com/in/Ruthcodina)
+- <span >
+<img width="5%" src="https://github.com/RuthCodina/RuthCodina/blob/main/logos/linkedin-icon.png"> &nbsp;
+</span>[LinkedIn](www.linkedin.com/in/Ruthcodina)
 
 [![Ruthcodina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthcodina)](https://github.com/anuraghazra/github-readme-stats)
 
