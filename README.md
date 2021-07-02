@@ -9,17 +9,17 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
 
 # Welcome to my profile!
 <p>
-  <code><img width="10%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/CSS3.jpg"></code>
-  <code><img width="10%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/HTML5.png"></code>
-  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/JS.png"></code>
-  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/React.png"></code>
-  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/redux.jpg"></code>
+  <code><img width="11%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/CSS3.jpg"></code>
+  <code><img width="11%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/HTML5.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/JS.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/React.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/redux.jpg"></code>
    <br />
-  <code><img width="10%"  height="70px"src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/node.png"></code>
-  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/sequelize.png"></code>
-  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/postgreSQL.png"></code>
-  <code><img  width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/nomgoDB.jpg"></code>
-  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/Python.png"></code>
+  <code><img width="11%"  height="90px"src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/node.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/sequelize.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/postgreSQL.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/nomgoDB.jpg"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/Python.png"></code>
   <br />
  </p> 
   
