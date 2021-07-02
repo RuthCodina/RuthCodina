@@ -51,9 +51,9 @@ You Can Find Me in 🗺️:
 ## Check my Work 👇! 
 ### SPACountries
 <div>
-<img align="left"  width= "250px" src='Landin Page.png' />
-<img align="center" width= "250px" src='https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/PrincipalCountries.png' />
-<img align="right" width= "250px" src='https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/buscqueda%20Countries.png'/>
+<img align="left"  width= "260px" src='Landin Page.png' />
+<img align="center" width= "260px" src='https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/PrincipalCountries.png' />
+<img align="right" width= "260px" src='https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/buscqueda%20Countries.png'/>
 <div/>
 <!--
 **RuthCodina/RuthCodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
