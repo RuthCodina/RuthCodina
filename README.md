@@ -9,23 +9,17 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
 
 # Welcome to my profile!
 <p>
-<<<<<<< HEAD
-  <code><img width="10%" src="https://github.com/RuthCodina/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-=======
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
->>>>>>> 6326f6866d08ef27bc04379a3c46bdf0703a9ce2
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/javascript-1.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
-  <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/material-ui-1.svg"></code>
+  <code><img width="10%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/CSS3.jpg"></code>
+  <code><img width="10%" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/HTML5.png"></code>
+  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/JS.png"></code>
+  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/React.png"></code>
+  <code><img width="10%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/redux.jpg"></code>
    <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
-  <code><img width="10%" height="45" src="https://cdn.worldvectorlogo.com/logos/redux.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
-  <code><img  width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/expressjs.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/sequelizejs/sequelizejs-ar21.svg"></code>
+  <code><img width="10%"  height="70px"src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/node.png"></code>
+  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/sequelize.png"></code>
+  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/postgreSQL.png"></code>
+  <code><img  width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/nomgoDB.jpg"></code>
+  <code><img width="10%" height="70px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/Python.png"></code>
   <br />
  </p> 
   
