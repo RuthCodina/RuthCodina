@@ -1,6 +1,6 @@
 ### Hi there 👋
 # Console.log(Hello World! 💛)
-![Ruth CODINA](https://user-images.githubusercontent.com/78045339/124202255-95a1db80-da9f-11eb-82e9-0b8e66db0c85.gif)
+![Ruth CODINA (1)](https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif)
 
 I'm a Full Stack Developer willing to listen to new projects, to learn with them and help you move them forward.This means we will have to learn a lot along the way! but we are here to help!
 
