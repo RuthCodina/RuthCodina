@@ -1,13 +1,13 @@
-### Hi I'm Ruth 👋
-# Console.log(Hello World! 💛)
+# Hi I'm Ruth 👋
+## Console.log(Hello World! 💛)
 <!--   ![Ruth CODINA (1)](https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif) -->
   <img src="https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif" width="1000" height="300" />
 
-I'm a Full Stack Developer willing to listen to new projects, to learn with them and help you move them forward.This means we will have to learn a lot along the way! but we are here to help!
+## I'm a Full Stack Developer willing to listen to new projects, to learn with them and help you move them forward.This means we will have to learn a lot along the way! but we are here to help!
 
 Besides, I love to travel and discover the nooks and crannies of the planet!
 
-## Welcome to my profile!
+# Welcome to my profile!
 <p>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="10%" height="50px" src="https://github.com/WanCirone/wancirone/blob/main/logos/1200px-Devicon-css3-plain.svg.png"></code>
@@ -25,7 +25,7 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
   <br />
  </p> 
   
-### About me In code!
+## About me In code!
 ```js
 let RuthCodina  = {
   Skills: {
@@ -50,9 +50,9 @@ You Can Find Me in 🗺️:
 
 [![Ruthcodina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthcodina)](https://github.com/anuraghazra/github-readme-stats)
 
-### Check my Work 👇! 
-##SPACountries
-<img align="left"  width= "350px" src='imagenes/JS.png' />
+## Check my Work 👇! 
+### SPACountries
+<img align="left"  width= "350px" src='Landin Page.png' />
 <img align="center" width= "350px" src='productos.png' />
 
 <!--
