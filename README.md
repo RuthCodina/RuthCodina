@@ -27,7 +27,10 @@ let RuthCodina  = {
 ```
 You Can Find Me in 🗺️:
 
-- [LinkedIn](www.linkedin.com/in/ruthcodina)
+- [LinkedIn](www.linkedin.com/in/Ruthcodina)
+
+[![Ruthcodina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthcodina)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **RuthCodina/RuthCodina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
