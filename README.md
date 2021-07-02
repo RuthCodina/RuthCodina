@@ -52,7 +52,7 @@ You Can Find Me in 🗺️:
 
 ### Check my Work 👇! 
 ##SPACountries
-<img align="left"  width= "350px" src='producto.png' />
+<img align="left"  width= "350px" src='imagenes/JS.png' />
 <img align="center" width= "350px" src='productos.png' />
 
 <!--
