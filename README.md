@@ -1,7 +1,7 @@
 # Hi I'm Ruth 👋
 ## Console.log(Hello World! 💛)
 <!--   ![Ruth CODINA (1)](https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif) -->
-<!--   <img src="https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif" width="1000" height="300" /> -->
+  <img src="https://user-images.githubusercontent.com/78045339/124202547-2ed0f200-daa0-11eb-8741-4be5831794a4.gif" width="1000" height="300" />
 
 ## I'm a Full Stack Developer willing to listen to new projects, to learn with them and help you move them forward.This means we will have to learn a lot along the way! but we are here to help!
 
