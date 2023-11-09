@@ -45,7 +45,7 @@ let RuthCodina  = {
 ```
 You Can Find Me in 🗺️:
 
-- [LinkedIn](www.linkedin.com/in/Ruthcodina)
+- [LinkedIn](www.linkedin.com/in/ruthcodina)
 
 [![Ruthcodina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruthcodina)](https://github.com/anuraghazra/github-readme-stats)
 
