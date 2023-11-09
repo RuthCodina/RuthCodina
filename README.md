@@ -28,7 +28,8 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
 let RuthCodina  = {
   Skills: {
       BackEnd: [
-          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'MongoDB', 'PostgreSQL']}
+          {JavaScript: ['NodeJs', 'Express', 'Sequelize', 'MongoDB', 'PostgreSQL']},
+          {Golang:[]}
         ],
       FrontEnd: [
           {JavaScript: ['React', 'Redux']}
@@ -38,8 +39,8 @@ let RuthCodina  = {
       {SPACountries: ['React-Redux', 'NodeJs', 'Express', 'Sequelize','PostgreSQL']},
       {Autocinema:['React', 'Redux', 'NodeJs', 'Express', 'MongoDB']}
     ],
-  FutureTecnologies: ['C#', 'Python', 'Go', 'Angular', 'Ruby'],
-  Aspirations: ['AI', 'MachineLearning', 'Cybersecurity']
+  FutureTecnologies: ['C#', 'Python', 'Go', 'Ruby'],
+  Aspirations: ['AI', 'MachineLearning', 'Cybersecurity', 'SRE']
 }
 ```
 You Can Find Me in 🗺️:
