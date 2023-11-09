@@ -19,7 +19,7 @@ Besides, I love to travel and discover the nooks and crannies of the planet!
   <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/sequelize.png"></code>
   <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/postgreSQL.png"></code>
   <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/nomgoDB.jpg"></code>
-  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/Python.png"></code>
+  <code><img width="11%" height="90px" src="https://github.com/RuthCodina/RuthCodina/blob/main/Imagenes/go.png"></code>
   <br />
  </p> 
   
